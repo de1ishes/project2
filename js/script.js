@@ -1,10 +1,4 @@
 "use strict";
+const numberOfFilms = prompt("Сколько фильмов вы уже посмотрели?");
+console.log(numberOfFilms);;
 
-// let incr = 10,decr=10;
-// incr++;//інкремент
-// decr--;//декремент
-// console.log(incr);
-// console.log(decr);
-const isChecked = true;
-isClose = true;
-console.log(isChecked || !isClose);
